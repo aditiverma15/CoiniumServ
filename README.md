@@ -92,4 +92,5 @@ Start reading by these;
 
 * [Developer's Guide](https://github.com/bonesoul/CoiniumServ/wiki/Developer's-Guide)
 * [Technical Documentation](https://github.com/bonesoul/CoiniumServ/wiki/Technical-Documentation)
+hello
 
